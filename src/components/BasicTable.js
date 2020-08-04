@@ -13,7 +13,8 @@ function addProducts(quantity) {
     products.push({
       id: id,
       name: 'Item name ' + id,
-      price: 2100 + i
+      price: 2100 + i,
+      img : <img src="/images/download.jpg" />
     });
   }
 }
@@ -33,7 +34,7 @@ export default class BasicTable extends React.Component {
               <TableHeaderColumn dataField='id' isKey={ true }>Product ID</TableHeaderColumn>
               <TableHeaderColumn dataField='name'>Product Name</TableHeaderColumn>
               <TableHeaderColumn dataField='price'>Supplier</TableHeaderColumn>
-              <TableHeaderColumn dataField='price'>Product Type</TableHeaderColumn>
+              <TableHeaderColumn dataField='img'>Product Type</TableHeaderColumn>
               <TableHeaderColumn dataField='price'>Brand</TableHeaderColumn>
               <TableHeaderColumn dataField='price'>Batch Tracked</TableHeaderColumn>
               <TableHeaderColumn dataField='price'>Available</TableHeaderColumn>
