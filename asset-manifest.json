@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DisOrder/static/css/main.14089241.chunk.css",
+    "main.js": "/DisOrder/static/js/main.f8ddce98.chunk.js",
+    "main.js.map": "/DisOrder/static/js/main.f8ddce98.chunk.js.map",
+    "runtime-main.js": "/DisOrder/static/js/runtime-main.884dc752.js",
+    "runtime-main.js.map": "/DisOrder/static/js/runtime-main.884dc752.js.map",
+    "static/css/2.a1f65902.chunk.css": "/DisOrder/static/css/2.a1f65902.chunk.css",
+    "static/js/2.fff57ec9.chunk.js": "/DisOrder/static/js/2.fff57ec9.chunk.js",
+    "static/js/2.fff57ec9.chunk.js.map": "/DisOrder/static/js/2.fff57ec9.chunk.js.map",
+    "index.html": "/DisOrder/index.html",
+    "precache-manifest.e2fd387aad49840d280d26a9b73aa370.js": "/DisOrder/precache-manifest.e2fd387aad49840d280d26a9b73aa370.js",
+    "service-worker.js": "/DisOrder/service-worker.js",
+    "static/css/2.a1f65902.chunk.css.map": "/DisOrder/static/css/2.a1f65902.chunk.css.map",
+    "static/css/main.14089241.chunk.css.map": "/DisOrder/static/css/main.14089241.chunk.css.map",
+    "static/js/2.fff57ec9.chunk.js.LICENSE.txt": "/DisOrder/static/js/2.fff57ec9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.884dc752.js",
+    "static/css/2.a1f65902.chunk.css",
+    "static/js/2.fff57ec9.chunk.js",
+    "static/css/main.14089241.chunk.css",
+    "static/js/main.f8ddce98.chunk.js"
+  ]
+}
